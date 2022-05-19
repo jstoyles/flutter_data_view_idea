@@ -8,7 +8,7 @@ The SingleChildScrollView's handle the vertical and horizontal scrolling for the
 
 Layered on top of that is a Container with a Row for the headers.
 
-Then there are a couple of ScrollController's that keep the horizontal scroll for the data and headers in sync.
+There are a couple of ScrollController's as well, to keep the horizontal scroll for the data and headers in sync.
 
 
 ![Alt Text](https://mediasrc.com/datatable_idea/data_view_idea.gif)
