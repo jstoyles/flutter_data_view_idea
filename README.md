@@ -10,3 +10,4 @@ Layered on top of that is a Container with a Row for the headers.
 
 There are a couple of ScrollController's as well, to keep the horizontal scroll for the data and headers in sync.
 
+![Alt Text](https://mediasrc.com/datatable_idea/data_view_idea.gif)
