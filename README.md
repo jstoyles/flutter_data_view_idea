@@ -1,6 +1,6 @@
 # Flutter Data View Idea
 
-This Data View built with Flutter/Dart is a unique way to show tabular data with fixed headers and fixed row headers.
+This concept for a Data View is a unique way to show tabular data with fixed headers and fixed row headers, with scrollable data under each row header.
 
 It just uses a couple of nested Stack's with a couple of nested SingleChildScrollView's, along with a couple of layered widgets with some specific positioning and height settings (all customizable).
 
